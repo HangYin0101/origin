@@ -1,7 +1,1 @@
-Hi this is csv file!
-
-<<<<<<< HEAD
-Now I am making change on my master branch's Jessicacsv.csv.
-=======
-I will have my fall break soon. This is a message from feature1 branch.
->>>>>>> feature1
+This is my change to Jessicacsv.csv in feature1 branch.
